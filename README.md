@@ -2,5 +2,4 @@
 
 Example how to play photo/video like insta stories
 
-
-![Simulator Screen Shot - iPhone 11 Pro - 2020-06-10 at 12 47 51](https://user-images.githubusercontent.com/19471028/84255898-e9035d80-ab1b-11ea-9d3f-b943990ad019.png)
+![rsz_2simulator_screen_shot_-_iphone_11_pro_-_2020-06-10_at_124751](https://user-images.githubusercontent.com/19471028/84256293-64650f00-ab1c-11ea-999e-d22f4e561c10.png)
